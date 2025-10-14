@@ -1,0 +1,29 @@
+# Secrets and credentials
+*.key
+*.pem
+.env
+.env.*
+*credentials*
+*secrets*
+
+# Personal information
+# Review CLAUDE.md before committing to remove personal details
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+npm-debug.log*
+
+# Temporary files
+*.tmp
+.cache/
